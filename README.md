@@ -1,3 +1,3 @@
 # wandb-cicd
 
-These are resources for W&B CI/CD
+These repo contains resources for W&B CI/CD
